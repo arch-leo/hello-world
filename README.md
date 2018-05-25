@@ -17,4 +17,4 @@ github 新手报到！ Hello World
   
 写吧！
 
-`<center>Hello World ！</center>`
+<p style="text-align:center;">Hello World ！</p>
