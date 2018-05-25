@@ -1,5 +1,5 @@
 # hello-world
-### github 新手报到！ Hello World
+github 新手报到！ Hello World
 
 2016.6.10 正式开启我的 前端开发 coding之路
   
@@ -16,4 +16,5 @@
 毕竟好记性不如烂笔头
   
 写吧！
-##  Hello World ！
+
+<center>Hello World ！</center>
