@@ -16,5 +16,5 @@ github 新手报到！ Hello World
 毕竟好记性不如烂笔头
   
 写吧！
-
-<p style="text-align:center;">Hello World ！</p>
+- - - - - -
+Hello World 
